@@ -8,8 +8,8 @@ Estas imagens são apenas ilustrações de como seria a plataforma de cibersegur
 ### Tela Principal (Momentânea)
 <div align="center">
   <img src="assets/imagens/PC 1.png" height="300"/>
-  <img src="assets/imagens/Cell 1.png" height="350"/>
-  <img src="assets/imagens/Cell 2.png" height="270"/>
+  <img src="assets/imagens/Cell 1.png" height="300"/>
+  <img src="assets/imagens/Cell 2.png" height="300"/>
 </div>
 
 ### Tela de Cursos (Momentânea)
